@@ -5,3 +5,5 @@ ${NAVIGATION_MENU}    css=.css-1upilqn
 ${SEARCH_INPUT}    css=input[placeholder="Search store"]
 ${LOGIN_BUTTON}    css=button[data-testid="login-button"]
 ${CART_BUTTON}    css=a[data-testid="shopping-cart"]
+${LOCATOR_ANALYTICS_LINK}  xpath=//a[@href='/analytics']
+${LOCATOR_WISHLIST_ACTIVITY_TRENDS}  xpath=//div[@id='wishlist-activity-trends'
