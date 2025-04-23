@@ -1,6 +1,10 @@
 *** Variables ***
 ${TEST_USERNAME}    %{EPIC_GAMES_USERNAME}
 ${TEST_PASSWORD}    %{EPIC_GAMES_PASSWORD}
+${URL}    https://example.com
+${BROWSER}    chrome
+${USERNAME}    user@example.com
+${PASSWORD}    password123
 
 *** Keywords ***
 Set Environment Variables
