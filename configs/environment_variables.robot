@@ -1,6 +1,8 @@
 *** Variables ***
 ${TEST_USERNAME}    %{EPIC_GAMES_USERNAME}
 ${TEST_PASSWORD}    %{EPIC_GAMES_PASSWORD}
+${ENVIRONMENT_URL}  https://epicgames.com
+${BROWSER}  chrome
 
 *** Keywords ***
 Set Environment Variables
