@@ -5,3 +5,6 @@ ${NAVIGATION_MENU}    css=.css-1upilqn
 ${SEARCH_INPUT}    css=input[placeholder="Search store"]
 ${LOGIN_BUTTON}    css=button[data-testid="login-button"]
 ${CART_BUTTON}    css=a[data-testid="shopping-cart"]
+${WISHLIST_PAGE}    xpath=//div[@id='wishlist-page']
+${SORT_ALPHABETICAL_BUTTON}    xpath=//button[@id='sort-alphabetical']
+${WISHLIST_ITEMS}    xpath=//div[@class='wishlist-item']
